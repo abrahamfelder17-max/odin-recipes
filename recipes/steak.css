@@ -1,0 +1,19 @@
+
+
+body{
+   box-sizing: border-box;
+    margin: 35px;
+    font-size: 25px;
+    background-color: lightcyan;
+}
+
+
+.ste{
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    margin: 20px;
+    height: 60px;
+    width: 100px;
+    font-size: 20px;
+}

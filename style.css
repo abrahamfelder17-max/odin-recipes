@@ -1,0 +1,62 @@
+
+body {
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+    background-color: lightgray;
+    margin: 50px;
+
+}
+
+.about{
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    height: 60px;
+    width: 110px;
+    font-size: 20px;
+    background-color: #FFF8F0;
+    margin: 20px;
+}
+
+.pancake{
+    height: 60px;
+    width: 110px;
+font-size: 25px;
+padding-left: 10px;
+padding-right: 10px;
+margin: 15px;
+background-color: lightcyan;
+font-family: 'Times New Roman', Times, serif;
+}
+
+.pasta{
+    height: 60px;
+width: 110px;
+font-size: 25px;
+margin: 15px;
+padding-left: 10px;
+padding-right: 10px;
+background-color: bisque;
+font-family: 'Times New Roman', Times, serif;
+}
+
+.pizza{
+    height: 60px;
+width: 110px;
+font-size: 25px;
+margin: 15px;
+padding-right: 10px;
+padding-left: 10px;
+background-color: bisque;
+font-family: 'Times New Roman', Times, serif;
+}
+
+.steak{
+    height: 60px;
+    width: 110px;
+    font-size: 25px;
+    margin: 15px;
+    background-color: lightcyan;
+    font-family: 'Times New Roman', Times, serif;
+}
+

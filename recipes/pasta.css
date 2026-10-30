@@ -1,0 +1,22 @@
+
+
+body{
+    box-sizing: border-box;
+    margin: 35px;
+    font-size: 25px;
+    background-color: bisque;
+}
+
+h1{
+    margin-bottom: 35px;
+}
+.pas{
+   position: absolute;
+   top: 20px;
+   right: 20px;
+    margin: 20px;
+    padding: 10px;
+    height: 60px;
+    width: 100px;
+    font-size: 20px;
+}
