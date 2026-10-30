@@ -4,7 +4,7 @@ body{
    box-sizing: border-box;
     margin: 35px;
     font-size: 25px;
-    background-color: lightcyan;
+    background-color: #E8EDE3;
 }
 
 
@@ -16,4 +16,11 @@ body{
     height: 60px;
     width: 100px;
     font-size: 20px;
+    background-color: #FFF8F0;;
+}
+
+.enjoy{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
 }
